@@ -84,7 +84,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "earrings"
+            "collection": "bracelets"
           }
         },
         "product": {
@@ -97,7 +97,7 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "bracelets"
+            "collection": "rings"
           }
         }
       },
@@ -189,7 +189,7 @@
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Titanium lightness",
+            "heading": "Brute & elegant",
             "heading_size": "h1"
           }
         },
@@ -214,7 +214,7 @@
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/titanium-earrings-2.jpg",
+        "image": "shopify:\/\/shop_images\/Polish_20221111_203609327.jpg",
         "height": "large",
         "desktop_image_width": "large",
         "layout": "image_first",
