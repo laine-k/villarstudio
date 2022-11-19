@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Handcrafted and unique designs",
+            "heading": "Handcrafted & unique",
             "heading_size": "h1"
           }
         },
@@ -75,8 +75,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "padding_top": 76,
+        "padding_bottom": 76
       }
     },
     "featured_collection": {
