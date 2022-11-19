@@ -91,7 +91,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "custom-titanium-earrings",
             "second_image": false
           }
         },
