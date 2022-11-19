@@ -288,21 +288,21 @@
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Titanium lightness",
             "heading_size": "h1"
           }
         },
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>I find a rare pleasure working with titanium, hard, tough and mighty, with passion I bend it to my will, with love I turn it's black scales into hills of audacity or prisms of colors, what for most is a challenge for me is poetry.<\/p>",
+            "text_style": "subtitle"
           }
         },
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "Read more",
             "button_link": ""
           }
         }
