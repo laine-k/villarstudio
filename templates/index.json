@@ -78,6 +78,40 @@
         "padding_bottom": 76
       }
     },
+    "52acd1ca-cf86-4797-bacb-3c3670ee9b42": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be the first to know when a new knife drops",
+            "heading_size": "h1"
+          }
+        },
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>I will be releasing new knives on December 5th this years<\/p>"
+          }
+        },
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-0",
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-1",
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -258,6 +292,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "52acd1ca-cf86-4797-bacb-3c3670ee9b42",
     "collage",
     "video",
     "multicolumn",
