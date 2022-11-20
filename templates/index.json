@@ -312,7 +312,7 @@
         "desktop_image_width": "large",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "inverse",
         "mobile_content_alignment": "left",
@@ -370,15 +370,14 @@
         "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-0": {
           "type": "heading",
           "settings": {
-            "heading": "Pipes and accessories",
+            "heading": "Briar pipes",
             "heading_size": "h1"
           }
         },
         "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pipes and tobacco accessories<\/p>",
             "text_style": "body"
           }
         },
