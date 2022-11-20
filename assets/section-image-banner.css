@@ -359,6 +359,7 @@
 
 .banner__box > * + .banner__text {
   margin-top: 1.5rem;
+  color: #baaa77;
 }
 
 @media screen and (min-width: 750px) {
@@ -397,6 +398,7 @@
 
 .banner__heading {
   margin-bottom: 0;
+  color: #baaa77;
 }
 
 .banner__box .banner__heading + * {
