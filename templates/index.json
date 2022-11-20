@@ -288,9 +288,8 @@
         },
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>I find a rare pleasure working with titanium, hard, tough and mighty, with passion I bend it to my will, with love I turn it's black scales into hills of audacity or prisms of colors, what for most is a challenge for me is poetry.<\/p>",
+            "text": "<p>Titanium, silver and custommade orders<\/p>",
             "text_style": "subtitle"
           }
         },
@@ -334,7 +333,7 @@
         "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-1": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "<p>High end materal with unique design<\/p>",
             "text_style": "body"
           }
         },
