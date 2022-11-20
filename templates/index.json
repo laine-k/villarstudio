@@ -72,7 +72,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 76,
         "padding_bottom": 76
@@ -106,7 +106,7 @@
         "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "inverse",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
