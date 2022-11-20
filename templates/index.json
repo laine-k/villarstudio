@@ -334,7 +334,7 @@
           "type": "text",
           "settings": {
             "text": "<p>High end materal with unique design<\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-2": {
@@ -420,10 +420,9 @@
         },
         "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
+            "text": "<p>Handmade wallets and passport holders<\/p>",
+            "text_style": "subtitle"
           }
         },
         "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-2": {
