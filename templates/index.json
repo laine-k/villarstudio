@@ -113,7 +113,7 @@
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 50,
-            "color_scheme": "accent-2",
+            "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
         },
