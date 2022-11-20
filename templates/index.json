@@ -87,12 +87,12 @@
             "image": "shopify:\/\/shop_images\/masculine_titanium_bracelets.jpg",
             "heading": "Jewellery",
             "heading_size": "h1",
-            "subheading": "Titanium, silver and custom projects",
+            "subheading": "Titanium, silver and custommade orders",
             "button_label": "See all jewellery",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 30,
             "color_scheme": "background-1",
@@ -103,16 +103,34 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/leather_passport_holder.jpg",
-            "heading": "Leather work",
+            "heading": "Leather craft",
             "heading_size": "h1",
             "subheading": "Ultra durable wallets and passport holders",
             "button_label": "See all wallets",
             "link": "",
             "button_style_secondary": false,
             "box_align": "middle-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 0,
+            "image_overlay_opacity": 50,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "107e4e02-3251-4d01-a087-a4a33b465bc9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/handmade-tobacco-pipe-7.jpg",
+            "heading": "Briar pipes",
+            "heading_size": "h0",
+            "subheading": "Pipes and tobacco accesories",
+            "button_label": "See all pipes",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 60,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
@@ -120,7 +138,8 @@
       },
       "block_order": [
         "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-0",
-        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-1"
+        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-1",
+        "107e4e02-3251-4d01-a087-a4a33b465bc9"
       ],
       "settings": {
         "layout": "full_bleed",
