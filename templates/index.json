@@ -170,42 +170,9 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
-    "52acd1ca-cf86-4797-bacb-3c3670ee9b42": {
-      "type": "newsletter",
-      "blocks": {
-        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Be the first to know when a new design drops",
-            "heading_size": "h1"
-          }
-        },
-        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Sign up to know when the new design items will be released<\/p>"
-          }
-        },
-        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-0",
-        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-1",
-        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2"
-      ],
-      "settings": {
-        "color_scheme": "inverse",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "collage": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -315,12 +282,13 @@
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-0": {
           "type": "heading",
           "settings": {
-            "heading": "Brute & elegant",
+            "heading": "Jewellery",
             "heading_size": "h1"
           }
         },
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>I find a rare pleasure working with titanium, hard, tough and mighty, with passion I bend it to my will, with love I turn it's black scales into hills of audacity or prisms of colors, what for most is a challenge for me is poetry.<\/p>",
             "text_style": "subtitle"
@@ -329,7 +297,7 @@
         "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-2": {
           "type": "button",
           "settings": {
-            "button_label": "Read more",
+            "button_label": "Shop now",
             "button_link": ""
           }
         }
@@ -379,17 +347,51 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "52acd1ca-cf86-4797-bacb-3c3670ee9b42": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Be the first to know when a new design drops",
+            "heading_size": "h1"
+          }
+        },
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up to know when the new design items will be released<\/p>"
+          }
+        },
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-0",
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-1",
+        "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "image_banner",
     "rich_text",
     "c0c79d7f-f31d-4b0d-aba5-fd375479d39c",
-    "52acd1ca-cf86-4797-bacb-3c3670ee9b42",
     "collage",
     "video",
     "multicolumn",
     "6335124b-a9b2-4627-92b9-e478fea59af0",
-    "featured_collection"
+    "featured_collection",
+    "52acd1ca-cf86-4797-bacb-3c3670ee9b42"
   ]
 }
