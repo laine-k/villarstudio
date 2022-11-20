@@ -78,6 +78,60 @@
         "padding_bottom": 76
       }
     },
+    "c0c79d7f-f31d-4b0d-aba5-fd375479d39c": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/masculine_titanium_bracelets.jpg",
+            "heading": "Jewellery",
+            "heading_size": "h1",
+            "subheading": "Titanium, silver and custom projects",
+            "button_label": "See all jewellery",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leather_passport_holder.jpg",
+            "heading": "Leather work",
+            "heading_size": "h1",
+            "subheading": "Ultra durable wallets and passport holders",
+            "button_label": "See all wallets",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-0",
+        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42": {
       "type": "newsletter",
       "blocks": {
@@ -292,6 +346,7 @@
   "order": [
     "image_banner",
     "rich_text",
+    "c0c79d7f-f31d-4b0d-aba5-fd375479d39c",
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42",
     "collage",
     "video",
