@@ -163,10 +163,10 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
@@ -175,6 +175,7 @@
     },
     "featured_collection": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Recent products",
         "heading_size": "h2",
@@ -236,6 +237,7 @@
     },
     "0fe790b6-914e-45d3-ac97-53c9e57352e3": {
       "type": "featured-product",
+      "disabled": true,
       "blocks": {
         "template--16613577588988__0fe790b6-914e-45d3-ac97-53c9e57352e3-16780405108c3a2a9d-0": {
           "type": "text",
