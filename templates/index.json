@@ -79,19 +79,6 @@
         "padding_bottom": 76
       }
     },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "video_url": "",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "c0c79d7f-f31d-4b0d-aba5-fd375479d39c": {
       "type": "slideshow",
       "disabled": true,
@@ -187,7 +174,6 @@
     },
     "collage": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -199,7 +185,7 @@
           "type": "product",
           "settings": {
             "product": "colorful-titanium-earring",
-            "second_image": false
+            "second_image": true
           }
         },
         "collection-1": {
@@ -278,182 +264,6 @@
         "padding_bottom": 36
       }
     },
-    "6335124b-a9b2-4627-92b9-e478fea59af0": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Jewellery",
-            "heading_size": "h1"
-          }
-        },
-        "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Titanium, silver and custommade orders<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/bracelets"
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-0",
-        "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-1",
-        "template--16613577588988__6335124b-a9b2-4627-92b9-e478fea59af0-16688560286212e9a8-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Polish_20221111_203609327.jpg",
-        "height": "large",
-        "desktop_image_width": "large",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "0e5a3ed8-e199-4311-918a-8a19b3491603": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Knives",
-            "heading_size": "h0"
-          }
-        },
-        "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>High end materal with unique design<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/knives"
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-0",
-        "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-1",
-        "template--16613577588988__0e5a3ed8-e199-4311-918a-8a19b3491603-16689726767fbe77a5-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/knives_leuku.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "60dc7253-a773-4c95-8297-8d2f19e4edb0": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Briar pipes",
-            "heading_size": "h1"
-          }
-        },
-        "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pipes and tobacco accessories<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/pipes"
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-0",
-        "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-1",
-        "template--16613577588988__60dc7253-a773-4c95-8297-8d2f19e4edb0-16689726767fbe77a5-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/handmade-tobacco-pipe-7.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "b1687478-e92f-44d0-bead-210e5e3b3ad4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Leather craft",
-            "heading_size": "h1"
-          }
-        },
-        "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Handmade wallets and passport holders<\/p>",
-            "text_style": "subtitle"
-          }
-        },
-        "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Shop now",
-            "button_link": "shopify:\/\/collections\/wallets"
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-0",
-        "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-1",
-        "template--16613577588988__b1687478-e92f-44d0-bead-210e5e3b3ad4-16689726767fbe77a5-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/passport_holder_italian_leather_1.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "inverse",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -519,14 +329,9 @@
   "order": [
     "image_banner",
     "rich_text",
-    "video",
     "c0c79d7f-f31d-4b0d-aba5-fd375479d39c",
     "collage",
     "multicolumn",
-    "6335124b-a9b2-4627-92b9-e478fea59af0",
-    "0e5a3ed8-e199-4311-918a-8a19b3491603",
-    "60dc7253-a773-4c95-8297-8d2f19e4edb0",
-    "b1687478-e92f-44d0-bead-210e5e3b3ad4",
     "featured_collection",
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42"
   ]

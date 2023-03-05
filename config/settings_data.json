@@ -107,7 +107,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "⛟ Free groundshipping on orders over 150 €",
+              "text": "⛟ Free shipping on orders over 200 €",
               "color_scheme": "background-2",
               "link": ""
             }
