@@ -51,11 +51,12 @@
     "rich_text": {
       "type": "rich-text",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "f0b955f0-d5c8-4749-ae91-5c31a91821f0": {
+          "type": "caption",
           "settings": {
-            "heading": "<p>Welcome to Villar Studio<\/p>",
-            "heading_size": "h1"
+            "caption": "Welcome to Villar Official",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "text": {
@@ -66,7 +67,7 @@
         }
       },
       "block_order": [
-        "heading",
+        "f0b955f0-d5c8-4749-ae91-5c31a91821f0",
         "text"
       ],
       "settings": {
@@ -83,7 +84,7 @@
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "video_url": "",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
