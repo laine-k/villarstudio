@@ -79,99 +79,6 @@
         "padding_bottom": 76
       }
     },
-    "c0c79d7f-f31d-4b0d-aba5-fd375479d39c": {
-      "type": "slideshow",
-      "disabled": true,
-      "blocks": {
-        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/masculine_titanium_bracelets.jpg",
-            "heading": "Jewellery",
-            "heading_size": "h1",
-            "subheading": "Titanium, silver and custommade orders",
-            "button_label": "See all jewellery",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 30,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-1": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/leather_passport_holder.jpg",
-            "heading": "Leather craft",
-            "heading_size": "h1",
-            "subheading": "Handmade wallets and passport holders",
-            "button_label": "See all wallets",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "107e4e02-3251-4d01-a087-a4a33b465bc9": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/handmade-tobacco-pipe-7.jpg",
-            "heading": "Briar pipes",
-            "heading_size": "h0",
-            "subheading": "Pipes and tobacco accesories",
-            "button_label": "See all pipes",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 60,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "58079de7-5abb-4203-80bb-826a14240c56": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MG_9507-01.jpg",
-            "heading": "Knives",
-            "heading_size": "h1",
-            "subheading": "Handmade with love and care",
-            "button_label": "See all knives",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 50,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-0",
-        "template--16613577588988__c0c79d7f-f31d-4b0d-aba5-fd375479d39c-1668967658585a88c8-1",
-        "107e4e02-3251-4d01-a087-a4a33b465bc9",
-        "58079de7-5abb-4203-80bb-826a14240c56"
-      ],
-      "settings": {
-        "layout": "full_bleed",
-        "slide_height": "adapt_image",
-        "slider_visual": "counter",
-        "auto_rotate": false,
-        "change_slides_speed": 5,
-        "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
-      }
-    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -212,13 +119,13 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/handmade_knife.jpg",
+            "title": "Leuku knives",
+            "text": "<p>A must-have for adventurers and outdoorsmen, the Leuku knife is a versatile and durable tool that can be used for a variety of tasks.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -226,8 +133,9 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/MG_4344-01.jpg",
+            "title": "EDC knives",
+            "text": "<p>The EDC Knife is lightweight and portable, making it the perfect knife to take with you on the go.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -235,8 +143,9 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/chefs_knife_sandvik_steel_3.jpg",
+            "title": "Chef's knives",
+            "text": "<p>This knife provides a superior cutting experience, making it a great choice for any home cook.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -329,7 +238,6 @@
   "order": [
     "image_banner",
     "rich_text",
-    "c0c79d7f-f31d-4b0d-aba5-fd375479d39c",
     "collage",
     "multicolumn",
     "featured_collection",
