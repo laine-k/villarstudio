@@ -35,14 +35,14 @@
         "button"
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/titanium_bracelets.jpg",
-        "image_overlay_opacity": 10,
+        "image": "shopify:\/\/shop_images\/MG_9507-01.jpg",
+        "image_overlay_opacity": 20,
         "image_height": "large",
         "adapt_height_first_image": false,
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "accent-1",
+        "desktop_content_position": "bottom-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": false,
         "show_text_below": true
