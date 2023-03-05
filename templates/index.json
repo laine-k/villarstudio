@@ -85,20 +85,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": "knives"
+            "collection": "leuku-knives"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "colorful-titanium-earring",
+            "product": "leuku-knife",
             "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "rings"
+            "collection": "edc-knives"
           }
         }
       },
