@@ -185,6 +185,50 @@
         "padding_bottom": 36
       }
     },
+    "0d299044-afae-4c77-87f3-ae02507e2971": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet the knifemaker",
+            "heading_size": "h1"
+          }
+        },
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rennan is a Brazilian knifemaker based in Baltics and has been working in this field since 2008. He loves to create knives and empower people through his work. He pays attention to details and client's needs while creating unique designs from scratch. Rennan is always open to talking and hearing epic stories from fellow knife enthusiasts.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get in touch",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0",
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1",
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/rennan_portrait_ad264476-7ec5-4256-b42c-04d43fea573b.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "disabled": true,
@@ -211,6 +255,54 @@
         "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
+      }
+    },
+    "38bfb55a-63d0-40bb-a504-c8d9287fc0e3": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "How to know the knife is good?",
+            "heading_size": "h1"
+          }
+        },
+        "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-1": {
+          "type": "text",
+          "settings": {
+            "text": "Many people are not sure how to quality assess a knife, when looking for one.",
+            "text_style": "body"
+          }
+        },
+        "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "How to evaluate a knife",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-0",
+        "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-1",
+        "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/knives_leuku.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42": {
@@ -319,50 +411,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "0d299044-afae-4c77-87f3-ae02507e2971": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Meet the knifemaker",
-            "heading_size": "h1"
-          }
-        },
-        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Rennan is a Brazilian knifemaker based in Baltics and has been working in this field since 2008. He loves to create knives and empower people through his work. He pays attention to details and client's needs while creating unique designs from scratch. Rennan is always open to talking and hearing epic stories from fellow knife enthusiasts.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Get in touch",
-            "button_link": "shopify:\/\/pages\/contact"
-          }
-        }
-      },
-      "block_order": [
-        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0",
-        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1",
-        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/rennan_portrait_ad264476-7ec5-4256-b42c-04d43fea573b.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -370,9 +418,10 @@
     "rich_text",
     "collage",
     "multicolumn",
+    "0d299044-afae-4c77-87f3-ae02507e2971",
     "featured_collection",
+    "38bfb55a-63d0-40bb-a504-c8d9287fc0e3",
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42",
-    "0fe790b6-914e-45d3-ac97-53c9e57352e3",
-    "0d299044-afae-4c77-87f3-ae02507e2971"
+    "0fe790b6-914e-45d3-ac97-53c9e57352e3"
   ]
 }
