@@ -319,6 +319,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0d299044-afae-4c77-87f3-ae02507e2971": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Meet the knifemaker",
+            "heading_size": "h1"
+          }
+        },
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Rennan is a Brazilian knifemaker based in Baltics and has been working in this field since 2008. He loves to create knives and empower people through his work. He pays attention to details and client's needs while creating unique designs from scratch. Rennan is always open to talking and hearing epic stories from fellow knife enthusiasts.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0",
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1",
+        "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -328,6 +371,7 @@
     "multicolumn",
     "featured_collection",
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42",
-    "0fe790b6-914e-45d3-ac97-53c9e57352e3"
+    "0fe790b6-914e-45d3-ac97-53c9e57352e3",
+    "0d299044-afae-4c77-87f3-ae02507e2971"
   ]
 }
