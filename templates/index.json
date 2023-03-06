@@ -64,11 +64,23 @@
           "settings": {
             "text": "<p>VillarOfficial is a Brazilian knife and sword designer based in the Baltics. His work is focused on the beauty of function, creating pieces with a deep understanding of form and how it interacts with the user. Each of his knives is unique, as each customer interaction is different; no two are alike. He strives to make blades that are not just beautiful but perform exquisitely in the hand, whether it be for everyday cutting tasks or for those epic moments when only the very best will do.<\/p>"
           }
+        },
+        "876c5bd4-a104-4fcb-a0dc-28d48d24c2d0": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
         }
       },
       "block_order": [
         "f0b955f0-d5c8-4749-ae91-5c31a91821f0",
-        "text"
+        "text",
+        "876c5bd4-a104-4fcb-a0dc-28d48d24c2d0"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -229,7 +241,7 @@
         "template--16613577588988__52acd1ca-cf86-4797-bacb-3c3670ee9b42-1668891149cad1419f-2"
       ],
       "settings": {
-        "color_scheme": "inverse",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
