@@ -335,8 +335,8 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 80
       }
     },
     "0fe790b6-914e-45d3-ac97-53c9e57352e3": {
