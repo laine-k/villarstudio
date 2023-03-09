@@ -411,6 +411,79 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "0870cff4-ba20-4c1a-b3a8-185d80345c95": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/chefs_knife_sandvik_steel_3.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leuku_knife2.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2ac89f9a-f7e2-4695-bc2f-396b7d8ba34d": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/handmade-tobacco-pipe-7.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-0",
+        "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-1",
+        "2ac89f9a-f7e2-4695-bc2f-396b7d8ba34d"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 9,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -422,6 +495,7 @@
     "featured_collection",
     "38bfb55a-63d0-40bb-a504-c8d9287fc0e3",
     "52acd1ca-cf86-4797-bacb-3c3670ee9b42",
-    "0fe790b6-914e-45d3-ac97-53c9e57352e3"
+    "0fe790b6-914e-45d3-ac97-53c9e57352e3",
+    "0870cff4-ba20-4c1a-b3a8-185d80345c95"
   ]
 }
