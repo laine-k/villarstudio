@@ -91,44 +91,6 @@
         "padding_bottom": 76
       }
     },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "leuku-knives"
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "leuku-knife",
-            "second_image": true
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "edc-knives"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "accent-1",
-        "padding_top": 60,
-        "padding_bottom": 60
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -183,6 +145,44 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "collage": {
+      "type": "collage",
+      "blocks": {
+        "collection-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "leuku-knives"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "leuku-knife",
+            "second_image": true
+          }
+        },
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "edc-knives"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "product",
+        "collection-1"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "color_scheme": "accent-1",
+        "padding_top": 60,
+        "padding_bottom": 60
       }
     },
     "0d299044-afae-4c77-87f3-ae02507e2971": {
@@ -415,6 +415,7 @@
     },
     "0870cff4-ba20-4c1a-b3a8-185d80345c95": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-0": {
           "type": "slide",
@@ -490,8 +491,8 @@
   "order": [
     "image_banner",
     "rich_text",
-    "collage",
     "multicolumn",
+    "collage",
     "0d299044-afae-4c77-87f3-ae02507e2971",
     "featured_collection",
     "38bfb55a-63d0-40bb-a504-c8d9287fc0e3",
