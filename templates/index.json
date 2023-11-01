@@ -185,10 +185,10 @@
         "heading": "",
         "heading_size": "h2",
         "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "accent-1",
-        "padding_top": 60,
-        "padding_bottom": 60
+        "mobile_layout": "column",
+        "color_scheme": "background-1",
+        "padding_top": 100,
+        "padding_bottom": 100
       }
     },
     "0d299044-afae-4c77-87f3-ae02507e2971": {
