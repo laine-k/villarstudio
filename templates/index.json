@@ -85,6 +85,9 @@
         "text",
         "876c5bd4-a104-4fcb-a0dc-28d48d24c2d0"
       ],
+      "custom_css": [
+        ".button{padding:0.7em; border-radius:5px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
