@@ -86,7 +86,7 @@
         "876c5bd4-a104-4fcb-a0dc-28d48d24c2d0"
       ],
       "custom_css": [
-        ".button{padding:0.7em; border-radius:5px;}"
+        ".button {padding: 0.7em; border-radius: 5px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -220,6 +220,9 @@
         "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-0",
         "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-1",
         "template--16613577588988__0d299044-afae-4c77-87f3-ae02507e2971-167811096183de8e86-2"
+      ],
+      "custom_css": [
+        ".button{padding:0.7em; border-radius:5px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/rennan_portrait_ad264476-7ec5-4256-b42c-04d43fea573b.png",
