@@ -34,6 +34,9 @@
         "text",
         "button"
       ],
+      "custom_css": [
+        ".button{padding:0.7em; border-radius:5px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/MG_9507-01.jpg",
         "image_overlay_opacity": 20,
@@ -259,7 +262,6 @@
     },
     "38bfb55a-63d0-40bb-a504-c8d9287fc0e3": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-0": {
           "type": "heading",
@@ -292,6 +294,7 @@
         "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-1",
         "template--16613577588988__38bfb55a-63d0-40bb-a504-c8d9287fc0e3-167811177297f111f1-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/knives_leuku.jpg",
         "image_overlay_opacity": 0,
@@ -342,7 +345,6 @@
     },
     "0fe790b6-914e-45d3-ac97-53c9e57352e3": {
       "type": "featured-product",
-      "disabled": true,
       "blocks": {
         "template--16613577588988__0fe790b6-914e-45d3-ac97-53c9e57352e3-16780405108c3a2a9d-0": {
           "type": "text",
@@ -403,6 +405,7 @@
         "template--16613577588988__0fe790b6-914e-45d3-ac97-53c9e57352e3-16780405108c3a2a9d-6",
         "template--16613577588988__0fe790b6-914e-45d3-ac97-53c9e57352e3-16780405108c3a2a9d-7"
       ],
+      "disabled": true,
       "settings": {
         "product": "",
         "color_scheme": "background-1",
@@ -415,7 +418,6 @@
     },
     "0870cff4-ba20-4c1a-b3a8-185d80345c95": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-0": {
           "type": "slide",
@@ -477,6 +479,7 @@
         "template--16613577588988__0870cff4-ba20-4c1a-b3a8-185d80345c95-16783661481fe22c08-1",
         "2ac89f9a-f7e2-4695-bc2f-396b7d8ba34d"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "small",
